@@ -1,1 +1,3 @@
-archivo2.txt
+chanchito feliz
+chanchito triste
+Felipe
